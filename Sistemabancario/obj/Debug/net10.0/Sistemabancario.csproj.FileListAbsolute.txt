@@ -1,0 +1,14 @@
+C:\Users\JaelJ\OneDrive\Desktop\Tarea de repaso sobre programacion orientada a objetos\Sistemabancario\bin\Debug\net10.0\Sistemabancario.exe
+C:\Users\JaelJ\OneDrive\Desktop\Tarea de repaso sobre programacion orientada a objetos\Sistemabancario\bin\Debug\net10.0\Sistemabancario.deps.json
+C:\Users\JaelJ\OneDrive\Desktop\Tarea de repaso sobre programacion orientada a objetos\Sistemabancario\bin\Debug\net10.0\Sistemabancario.runtimeconfig.json
+C:\Users\JaelJ\OneDrive\Desktop\Tarea de repaso sobre programacion orientada a objetos\Sistemabancario\bin\Debug\net10.0\Sistemabancario.dll
+C:\Users\JaelJ\OneDrive\Desktop\Tarea de repaso sobre programacion orientada a objetos\Sistemabancario\bin\Debug\net10.0\Sistemabancario.pdb
+C:\Users\JaelJ\OneDrive\Desktop\Tarea de repaso sobre programacion orientada a objetos\Sistemabancario\obj\Debug\net10.0\Sistemabancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JaelJ\OneDrive\Desktop\Tarea de repaso sobre programacion orientada a objetos\Sistemabancario\obj\Debug\net10.0\Sistemabancario.AssemblyInfoInputs.cache
+C:\Users\JaelJ\OneDrive\Desktop\Tarea de repaso sobre programacion orientada a objetos\Sistemabancario\obj\Debug\net10.0\Sistemabancario.AssemblyInfo.cs
+C:\Users\JaelJ\OneDrive\Desktop\Tarea de repaso sobre programacion orientada a objetos\Sistemabancario\obj\Debug\net10.0\Sistemabancario.csproj.CoreCompileInputs.cache
+C:\Users\JaelJ\OneDrive\Desktop\Tarea de repaso sobre programacion orientada a objetos\Sistemabancario\obj\Debug\net10.0\Sistemabancario.dll
+C:\Users\JaelJ\OneDrive\Desktop\Tarea de repaso sobre programacion orientada a objetos\Sistemabancario\obj\Debug\net10.0\refint\Sistemabancario.dll
+C:\Users\JaelJ\OneDrive\Desktop\Tarea de repaso sobre programacion orientada a objetos\Sistemabancario\obj\Debug\net10.0\Sistemabancario.pdb
+C:\Users\JaelJ\OneDrive\Desktop\Tarea de repaso sobre programacion orientada a objetos\Sistemabancario\obj\Debug\net10.0\Sistemabancario.genruntimeconfig.cache
+C:\Users\JaelJ\OneDrive\Desktop\Tarea de repaso sobre programacion orientada a objetos\Sistemabancario\obj\Debug\net10.0\ref\Sistemabancario.dll
